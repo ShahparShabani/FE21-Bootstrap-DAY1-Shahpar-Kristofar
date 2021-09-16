@@ -7,7 +7,12 @@ body {
           box-sizing: border-box;
 }
 
-.my-row div {
+.my-row p {
+  padding-top: 15px;
+}
+
+.my-row .row div {
+  height: 170px;
   background-color: #eca0ec;
 }
 /*# sourceMappingURL=shahpar-challenge-style.css.map */
