@@ -1,17 +1,18 @@
-
 body {
-    background-color: rgb(199, 196, 196);
+  background-color: rgb(199, 196, 196);
 }
 
 .my-row {
-    box-sizing: border-box;
+  box-sizing: border-box;
+
+  p {
+    padding-top: 15px;
+  }
 
   .row {
-
     div {
       height: 170px;
       background-color: rgb(236, 160, 236);
     }
-    
   }
 }

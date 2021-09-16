@@ -7,6 +7,10 @@ body {
           box-sizing: border-box;
 }
 
+.my-row p {
+  padding-top: 15px;
+}
+
 .my-row .row div {
   height: 170px;
   background-color: #eca0ec;
