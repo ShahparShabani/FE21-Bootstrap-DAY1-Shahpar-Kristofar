@@ -1,0 +1,4 @@
+.bg-gradient {
+  --bs-gradient: var(--bs-gradient);
+  background-image: var(--bs-gradient);
+}
