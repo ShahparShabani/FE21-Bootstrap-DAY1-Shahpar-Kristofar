@@ -8,7 +8,8 @@ body {
 }
 
 .my-row p {
-  padding-top: 15px;
+  padding-top: 28px;
+  font-weight: bold;
 }
 
 .my-row .row div {
